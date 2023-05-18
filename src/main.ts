@@ -21,6 +21,6 @@ value = user['user-address'];
 value = user['user-address'].city;
 user.firsname = 'Den'
 value = user.firsname;
-// user = ['user-addres'].city = 'Turin'
+user = ['user-addres'].city = 'Turin'
 console.log(value);
  console.log(user);
