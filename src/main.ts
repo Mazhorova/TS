@@ -11,7 +11,7 @@ const user = {
   email: 'testimoost.com',
   'user-address': {
     city:"Pekin"
-
+    
   }
 };
 let value;
@@ -20,7 +20,7 @@ value = user['head'];
 value = user['user-address'];
 value = user['user-address'].city;
 user.firsname = 'Den'
+user= ['user-addres'].city = 'Turin'
 value = user.firsname;
-user = ['user-addres'].city = 'Turin'
 console.log(value);
  console.log(user);
